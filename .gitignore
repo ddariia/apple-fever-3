@@ -1,0 +1,7 @@
+/.vs
+/.vsconfig
+/Library/Artifacts
+/Library/BurstCache
+/Library/bee/artifacts
+/Library/Bee/CachedNodeOutput
+/Library/PackageCache
